@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1456871,
       "digest": "sha256:c00e381f7a57f1ea7771946386a050a082aa742e4d9b08e043904dcfd3eb8c93",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2026-08-07T20:05:00Z",
       "updated_at": "2026-08-07T20:05:00Z",
       "browser_download_url": "https://github.com/jacek-kurlit/pik/releases/download/1.0.1/pik-1.0.1-x86_64-pc-windows-msvc.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2273656,
       "digest": "sha256:803ca696223cd2563e36ec07450b8908391117d81fe976a54dc83f8a1f5e6590",
-      "download_count": 130,
+      "download_count": 133,
       "created_at": "2026-08-07T20:03:30Z",
       "updated_at": "2026-08-07T20:03:31Z",
       "browser_download_url": "https://github.com/jacek-kurlit/pik/releases/download/1.0.1/pik-1.0.1-x86_64-unknown-linux-gnu.tar.gz"
