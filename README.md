@@ -48,12 +48,12 @@ Total: **5,849** lines of code across **37** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 1 | 0 | 1 | 0 | 1 |
-| last60d | 2026-07-13 | 1 | 2 | 0 | 1 | 0 | 2 |
-| 90d | 2026-06-13 | 1 | 3 | 0 | 1 | 0 | 3 |
-| last180d | 2026-03-15 | 5 | 19 | 0 | 7 | 3 | 45 |
-| 360d | 2025-09-16 | 11 | 37 | 0 | 17 | 3 | 77 |
-| last720d | 2024-09-21 | 33 | 107 | 0 | 59 | 8 | 356 |
+| 30d | 2026-08-13 | 0 | 1 | 0 | 1 | 0 | 1 |
+| last60d | 2026-07-14 | 1 | 2 | 0 | 1 | 0 | 2 |
+| 90d | 2026-06-14 | 1 | 3 | 0 | 1 | 0 | 3 |
+| last180d | 2026-03-16 | 5 | 19 | 0 | 7 | 3 | 45 |
+| 360d | 2025-09-17 | 11 | 37 | 0 | 17 | 3 | 77 |
+| last720d | 2024-09-22 | 33 | 106 | 0 | 57 | 7 | 352 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for pik lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T18:24:15Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T06:06:38Z._
