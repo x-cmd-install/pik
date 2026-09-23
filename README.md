@@ -4,7 +4,7 @@
 
 Process Interactive Kill
 
-[![x-cmd/install — pik Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pik.svg)](https://x-cmd.com/install/pik)
+[![x-cmd/install — pik Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/pik.svg)](https://x-cmd.com/install/pik)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install pik
 
 ## Code insight
 
-Total: **5,849** lines of code across **37** files in the top 5 languages.
+Total: **5,917** lines of code across **37** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 5,558 | 100 | 708 | 28 |
+| Rust | 5,626 | 106 | 718 | 28 |
 | Toml | 141 | 1 | 25 | 3 |
 | Svg | 51 | 2 | 2 | 2 |
 | Sh | 48 | 13 | 20 | 3 |
@@ -33,27 +33,27 @@ Total: **5,849** lines of code across **37** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.0.1` (2026-08-07)
-- **Last commit**: 2026-08-18
+- **Last commit**: 2026-09-22
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 570 · **Forks**: 18 · **Open issues**: 107 · **Contributors**: 14
+- **Stars**: 570 · **Forks**: 18 · **Open issues**: 108 · **Contributors**: 14
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 138 · **Open PRs**: 0 · **Closed issues**: 96 · **Open issues**: 11 · **Commits**: 484
+- **Releases**: 42 · **Merged PRs**: 139 · **Open PRs**: 0 · **Closed issues**: 97 · **Open issues**: 11 · **Commits**: 491
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 1 | 2 | 0 | 1 | 0 | 2 |
-| 90d | 2026-06-24 | 1 | 2 | 0 | 1 | 0 | 2 |
-| last180d | 2026-03-26 | 2 | 10 | 0 | 2 | 0 | 15 |
-| 360d | 2025-09-27 | 9 | 32 | 0 | 14 | 3 | 65 |
-| last720d | 2024-10-02 | 32 | 101 | 0 | 53 | 7 | 324 |
+| 30d | 2026-08-24 | 0 | 1 | 0 | 0 | 1 | 6 |
+| last60d | 2026-07-25 | 1 | 3 | 0 | 1 | 1 | 8 |
+| 90d | 2026-06-25 | 1 | 3 | 0 | 1 | 1 | 8 |
+| last180d | 2026-03-27 | 2 | 10 | 0 | 2 | 1 | 21 |
+| 360d | 2025-09-28 | 9 | 33 | 0 | 15 | 3 | 71 |
+| last720d | 2024-10-03 | 32 | 102 | 0 | 54 | 7 | 329 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for pik lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:45:49Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:51:15Z._
