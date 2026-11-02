@@ -1,7 +1,7 @@
-- repo: nix_stable_26_05
+- repo: nix_stable_25_11
   srcname: pik
   visiblename: pik
-  version: 1.0.0
+  version: 0.27.0
   origversion: null
   status: outdated
   summary: Process Interactive Kill
@@ -9,10 +9,10 @@
     - benoit.dechezelles@gmail.com
   licenses:
     - MIT
-- repo: nix_stable_25_11
+- repo: nix_stable_25_05
   srcname: pik
   visiblename: pik
-  version: 0.27.0
+  version: 0.21.0
   origversion: null
   status: outdated
   summary: Process Interactive Kill
@@ -79,28 +79,6 @@
   origversion: null
   status: outdated
   summary: Pik is a tool to manage multiple versions of ruby on Windows.
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: pik
-  binname: pik
-  visiblename: pik
-  version: 1.0.1
-  origversion: 1.0.1-1
-  status: newest
-  summary: Process interactive kill
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: pik
-  binname: pik
-  visiblename: pik
-  version: 1.0.1
-  origversion: 1.0.1-1
-  status: newest
-  summary: Process interactive kill
-  licenses:
-    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: pik
@@ -123,10 +101,10 @@
     - benoit.dechezelles@gmail.com
   licenses:
     - MIT
-- repo: nix_stable_25_05
+- repo: nix_stable_26_05
   srcname: pik
   visiblename: pik
-  version: 0.21.0
+  version: 1.0.0
   origversion: null
   status: outdated
   summary: Process Interactive Kill
